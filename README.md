@@ -1,3 +1,3 @@
 # pjts_2023
 
-Este repositório é destinado aos projetos que eu realizei em 2023
+Este repositório é destinado ao meu primeiro PWA, que fiz em 2023
