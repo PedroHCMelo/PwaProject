@@ -1,0 +1,33 @@
+{
+  "background_color": "#ffffff",
+  "description": "This is a PWA project only for study purposes",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Word Tour",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "World Tour",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "categories": [
+    "education",
+    "travel",
+    "utilities"
+  ],
+  "screenshots": [],
+  "icons": [
+    {
+      "src": "/PwaProject/icon/planet-earth-flat-simple-by-Vexels.png",
+      "type": "image/x-icon"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "World Tour",
+      "url": "https://worldwidetour.netlify.app",
+      "description": "Description"
+    }
+  ],
+  "id": "worldwidetoour",
+  "lang": "pt"
+}
